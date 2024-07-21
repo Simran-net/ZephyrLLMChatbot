@@ -33,9 +33,9 @@ Before you  start creating your chatbot, make sure you have the following:
 6. **Deployment**: Once setup is complete, deploy your chatbot by simply clicking the create button. Deployment usually takes a couple of minutes. After this, your chatbot will be up and running and ready to interact.
 
 ## Customization Example
-To make your chatbot truly stand out, personalize it thoroughly. For example, if you opt for a 'Therapy Assistant' role:
-- Adjust the system messages to feature different exercises.
-- Configure the chatbot to recommend quick meditation, assist you in managing anxiety or provide stress control tips.
+To make your chatbot truly stand out, personalize it thoroughly. For example, if you opt for a 'Cooking Guide' role:
+Adjust the system messages to feature simple and healthy recipes.
+Configure the chatbot to recommend various dishes, assist you in home cooking, or provide kitchen tips.
 
  Explore different roles and tweak the system instructions to discover the full potential of your chatbot. Don’t forget to share your creations and experiences, as your insights could inspire others in their chatbot development.
 
