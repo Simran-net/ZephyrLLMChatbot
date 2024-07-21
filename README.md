@@ -13,6 +13,10 @@ Have you ever wished to craft a chatbot tailored to your needs? Whether it's a c
 Before you  start creating your chatbot, make sure you have the following:
 - **A Hugging Face Account**: Essential for accessing the platform where you'll build and host your chatbot. [Sign up here](https://huggingface.co/join).
 
+- ## Files
+- `app.py`: The main application file that initializes and runs the chatbot.
+- `requirements.txt`: A list of Python dependencies required to run the application.
+
 ## Setup and Deployment
 1. **Choosing Your Chatbot’s Identity**: Decide what your chatbot will specialize in. This could be anything from a chef, painter, or even a relaxing buddy to help you unwind. The role you choose will define the interactions and capabilities of your chatbot.
 
@@ -29,9 +33,9 @@ Before you  start creating your chatbot, make sure you have the following:
 6. **Deployment**: Once setup is complete, deploy your chatbot by simply clicking the create button. Deployment usually takes a couple of minutes. After this, your chatbot will be up and running and ready to interact.
 
 ## Customization Example
-To make your chatbot truly unique, consider personalizing it extensively. For instance, if you choose a 'Relaxing Buddy' role:
-- Modify the system messages to include comforting phrases and stress-relief tips.
-- Program the chatbot to suggest relaxation exercises, guide through meditation sessions, or simply offer soothing conversations.
+To make your chatbot truly stand out, personalize it thoroughly. For example, if you opt for a 'Therapy Assistant' role:
+- Adjust the system messages to feature different exercises.
+- Configure the chatbot to recommend quick meditation, assist you in managing anxiety or provide stress control tips.
 
  Explore different roles and tweak the system instructions to discover the full potential of your chatbot. Don’t forget to share your creations and experiences, as your insights could inspire others in their chatbot development.
 
